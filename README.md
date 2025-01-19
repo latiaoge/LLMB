@@ -22,15 +22,6 @@ LLMB（Large Language Model with Memory）项目旨在构建一个高效、功�
 
 ---
 
-# LLMB项目 - 强大的本地大模型记忆系统
-
-## 简介
-
-LLMB（Large Language Model with Memory）项目旨在构建一个高效、功能丰富的本地大模型记忆系统。它集成了Langchain框架、Ollama语言模型、中文向量模型（text2vec-large-chinese），以及关系型数据库（如SQLite），实现了向量检索和持久化存储功能。该系统能够接收用户的输入，利用内存管理和向量存储来跟踪对话上下文，并通过调用外部的语言模型（Ollama）生成智能回复。此外，LLMB还维护聊天历史数据库，并使用Redis加速某些操作或保持会话状态。
-
-本项目适用于多种应用场景，包括但不限于客户服务聊天机器人、虚拟助手、自动化问答系统等。
-
----
 
 ## 文件结构与代码说明
 
