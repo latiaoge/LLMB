@@ -97,6 +97,7 @@ LLMB（Large Language Model with Memory）项目旨在构建一个高效、功�
 ```bash
 pip install -r requirements.txt
 ```
+text2vec-large-chinese：https://www.modelscope.cn/models/Jerry0/text2vec-large-chinese/files
 
 ### 步骤 3: 启动应用
 
