@@ -1,0 +1,2 @@
+text2vec-large-chinese模型自己下载
+Redis服务自建
