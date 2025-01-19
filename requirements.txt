@@ -1,0 +1,7 @@
+langchain
+requests 
+fastapi
+uvicorn
+sqlalchemy
+redis
+# 添加其他需要的库
