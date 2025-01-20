@@ -18,7 +18,7 @@ LLMB（Large Language Model with Memory）项目旨在构建一个高效、功�
   实现向量存储和检索功能，支持FAISS和SentenceTransformer模型，用于保存用户输入和AI回复的嵌入向量，并通过向量检索找到相关的历史记录。
   
 - **ollama_client.py**  
-  封装了对Ollama API的调用逻辑，负责### 优化后的 README 文件（含文件结构）
+  封装了对Ollama API的调用逻辑
 
 ---
 
